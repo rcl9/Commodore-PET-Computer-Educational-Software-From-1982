@@ -6,18 +6,20 @@ You could have these up and running on your PC computer in a few minutes by foll
 
 - Download and install the [VICE emulator](https://vice-emu.sourceforge.io/). 
 
-- Execute *bin\xpet.exe* and set "*Preferences / Settings... / Machine / Model" to "PET 4032B*" then exit the program. You'll want to ensure that this option has stuck with the program. 
+- Execute '*bin\xpet.exe*' and set "*Preferences / Settings... / Machine / Model" to "PET 4032B*" then exit the program. You'll want to ensure that this option has stuck with the program. 
 
-- Drag and drop one of the .prg files provided in this repo over top of the *xpet.exe* program in Windows Explorer. It should start up the Commodore BASIC v4.0 program automatically. 
+- Drag and drop one of the .prg files provided in this repo over top of the *xpet.exe* program in Windows Explorer. It should start up the Commodore BASIC v4.0 program automatically. The letter 'Q' can often be used to exit out of each program.
 
-## List of Documented Programs
+Click on the links below to show a series of screen snapshots from each running program. 
 
-| Program UI Snapshot  |  Program Name  |
-|:------------- |:---------------- | Grade Level|Purpose|
-| <img src="/Images/Factoring/factor2.webp" alt="" style="width:20%; height:auto;">
+## List of Documented PET BASIC 4.0 Programs in [/Src](/Src)
+
+| Program UI Snapshot  |  Program Name  |Grade Level|Purpose|
+|:------------- |:---------------- | :---------------- | :---------------- | 
+| <img src="/Images/Factoring/factor2.webp" alt="" style="width:40%; height:auto;">
 | Newton's First Law of Dynamics | 11-12|Drill|
 
 ## Acknowledgements
 
-Thanks go to [Steve Gray](http://cbmsteve.ca) and his *[CBM Transfer](https://github.com/sjgray)* utility program which was used to image the original PET 5-1/4" disks, as well as W. Miraglia for coordinating the imaging work.
+Thanks go to [Steve Gray](http://cbmsteve.ca) and his [CBM Transfer](https://github.com/sjgray) utility program which was used to image the original PET 5-1/4" disks, as well as W. Miraglia for coordinating the imaging work.
 
