@@ -16,20 +16,20 @@ Click on the links below to show a series of screen snapshots from each running 
 
 | Program UI Snapshot  |  Program Name  |Grade Level|Purpose|
 |:------------- |:---------------- | :---------------- | :---------------- | 
-| <img src="/Images/CoinFlip/CoinFlip4.webp" alt="" style="width:40%; height:auto;">
+|<img src="/Images/Coin_Flip_Demo/CoinFlip4.webp" alt="" style="width:40%; height:auto;">
 | [Coin Flip Demo](/Coin_Flip_Demo.md) | 9,10,13|Stats and Probability|
 
-| <img src="/Images/Division_with_Exponents/Division7.webp" alt="" style="width:40%; height:auto;">|
+|<img src="/Images/Division_with_Exponents/Division7.webp" alt="" style="width:40%; height:auto;">
 | [Division with Exponents](/Division_With_Exponents.md) | 9-10|Drill|
 
-| <img src="/Images/Factoring/factor2.webp" alt="" style="width:40%; height:auto;">|
-| [Factoring of Cubics Using the Factor Theorem](/Factor_Theorem.md)  | 11-12|Drill|
+|<img src="/Images/Factoring_Theorem/factor2.webp" alt="" style="width:40%; height:auto;">
+| [Factoring of Cubics Using the Factor Theorem](/Factor_Theorem.md) | 11-12|Drill|
 
-| <img src="/Images/Parabola/Parabola7.webp" alt="" style="width:40%; height:auto;">|
-| [Graphing the Parabola](/Graphing_the_Parabola.md) | 11-13|Tutorial-Demo|
+|<img src="/Images/Graphing_the_Parabola/Parabola7.webp" alt="" style="width:40%; height:auto;">
+| [Graphing the Parabola](/Graphing_the_Parabola.md)| 11-13|Tutorial-Demo|
 
-| <img src="/Images/Newtons_First_Law_of_Motion/Newton6.webp" alt="" style="width:40%; height:auto;">|
-| [Newtons First Law of Motion](/Newtons_First_Law_of_Motion.md) | 11-13|Tutorial-Demo|
+|<img src="/Images/Newtons_First_Law_of_Motion/Newton6.webp" alt="" style="width:40%; height:auto;">
+| [Newtons First Law of Motion](/Newtons_First_Law_of_Motion.md)| 11-13|Tutorial-Demo|
 
 ## Acknowledgements
 
