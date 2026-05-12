@@ -4,9 +4,9 @@ This repository documents the source code and related visual screen snapshots to
 
 You could have these up and running on your PC computer in a few minutes by following these short steps:
 
-- Download and install the [VICE emulator](https://vice-emu.sourceforge.io/). 
+- Download and install the *VICE emulator* which you can find elsewhere.
 
-- Execute '*bin\xpet.exe*' and set "*Preferences / Settings... / Machine / Model" to "PET 4032B*" then exit the program. You'll want to ensure that this option has stuck with the program. 
+- From the VICE emulator, execute '*bin\xpet.exe*' and set "*Preferences / Settings... / Machine / Model" to "PET 4032B*" then exit the program. You'll want to ensure that this option has stuck with the program. 
 
 - Drag and drop one of the .prg files provided in this repo over top of the *xpet.exe* program in Windows Explorer. It should start up the Commodore BASIC v4.0 program automatically. The letter 'Q' can often be used to exit out of each program.
 
@@ -16,8 +16,20 @@ Click on the links below to show a series of screen snapshots from each running 
 
 | Program UI Snapshot  |  Program Name  |Grade Level|Purpose|
 |:------------- |:---------------- | :---------------- | :---------------- | 
+| <img src="/Images/CoinFlip/CoinFlip4.webp" alt="" style="width:40%; height:auto;">
+| [Coin Flip Demo](/Coin_Flip_Demo.md) | 9,10,13|Stats and Probability|
+
+| <img src="/Images/Division_with_Exponents/Division7.webp" alt="" style="width:40%; height:auto;">
+| [Division with Exponents](/Division_With_Exponents.md) | 9-10|Drill|
+
 | <img src="/Images/Factoring/factor2.webp" alt="" style="width:40%; height:auto;">
-| Newton's First Law of Dynamics | 11-12|Drill|
+| [Factoring of Cubics Using the Factor Theorem](/Factor_Theorem.md)  | 11-12|Drill|
+
+| <img src="/Images/Parabola/Parabola7.webp" alt="" style="width:40%; height:auto;">
+| [Graphing the Parabola](/Graphing_the_Parabola.md) | 11-13|Tutorial-Demo|
+
+| <img src="/Images/Newtons_First_Law_of_Motion/Newton6.webp" alt="" style="width:40%; height:auto;">
+| [Newtons First Law of Motion](/Newtons_First_Law_of_Motion.md) | 11-13|Tutorial-Demo|
 
 ## Acknowledgements
 
