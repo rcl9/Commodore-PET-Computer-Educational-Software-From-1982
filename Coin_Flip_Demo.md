@@ -6,18 +6,18 @@ It can also be used as a demonstration of probability in grade 13. It can simula
 tabulates the results and display the results on a chart and on three different graphs.
 
 <div style="text-align:center">
-<img src="/Images/CoinFlip/CoinFlip2.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip2.webp" alt="" style="width:75%; height:auto;">
 <br>
-<img src="/Images/CoinFlip/CoinFlip3.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip3.webp" alt="" style="width:75%; height:auto;">
 <br>
-<img src="/Images/CoinFlip/CoinFlip4.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip4.webp" alt="" style="width:75%; height:auto;">
 <br>
-<img src="/Images/CoinFlip/CoinFlip5.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip5.webp" alt="" style="width:75%; height:auto;">
 <br>
-<img src="/Images/CoinFlip/CoinFlip6.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip6.webp" alt="" style="width:75%; height:auto;">
 <br>
-<img src="/Images/CoinFlip/CoinFlip7.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip7.webp" alt="" style="width:75%; height:auto;">
 <br>
-<img src="/Images/CoinFlip/CoinFlip8.webp" alt="" style="width:75%; height:auto;">
+<img src="/Images/Coin_Flip_Demo/CoinFlip8.webp" alt="" style="width:75%; height:auto;">
 <br>
 </div>
