@@ -10,13 +10,13 @@ The student can choose any values for the parameters within these limits:
 
 <div style="text-align:center">
 <img src="Images/Graphing_the_Parabola/Parabola3.webp" alt="" style="width:75%; height:auto;">
-<br>
+<br><br>
 <img src="Images/Graphing_the_Parabola/Parabola4.webp" alt="" style="width:75%; height:auto;">
-<br>
+<br><br>
 <img src="Images/Graphing_the_Parabola/Parabola5.webp" alt="" style="width:75%; height:auto;">
-<br>
+<br><br>
 <img src="Images/Graphing_the_Parabola/Parabola6.webp" alt="" style="width:75%; height:auto;">
-<br>
+<br><br>
 <img src="Images/Graphing_the_Parabola/Parabola7.webp" alt="" style="width:75%; height:auto;">
 <br>
 </div>
